@@ -1,6 +1,6 @@
 jasypt:
   encryptor:
-    password: liuweijw
+    password: berger
 
 server:
   tomcat:

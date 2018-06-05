@@ -41,8 +41,8 @@ sharding:
       ds:
         type: com.zaxxer.hikari.HikariDataSource
         driver-class-name: com.mysql.jdbc.Driver
-        username: ENC(rC/X/8UBBH2bn9Tgfuu7aw==)
-        password: ENC(IVTzs5LDfVEsblAFWFgA9w==)
+        username: 93O6YY6MmYa6R44YN7g/Uv1fQEkFYUew #root
+        password: RtboUiQV3bUGcOO4MuzYZFxV8TNCg6xEGIOZx6zO/8A= #123456
         jdbc-url: jdbc:mysql://127.0.0.1:3306/fw-cloud?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false
     config:
       sharding:

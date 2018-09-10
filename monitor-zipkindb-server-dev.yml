@@ -11,9 +11,10 @@ spring:
 zipkin:
   collector:
     rabbitmq:
-      addresses: 127.0.0.1:5672
-      password: guest
-      username: guest
+      host: 127.0.0.1
+      port: 5672
+      username: admin
+      password: 123456
       queue: zipkin
   storage:
     type: mysql
